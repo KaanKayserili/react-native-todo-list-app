@@ -75,6 +75,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: "700",
     paddingLeft: 5,
+    textAlign: "center"
   },
   goalsContainer: {
     flex: 4,
